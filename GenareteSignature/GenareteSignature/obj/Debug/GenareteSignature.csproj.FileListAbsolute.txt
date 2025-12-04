@@ -1,0 +1,13 @@
+C:\Users\gokcul\source\repos\GenareteSignature\GenareteSignature\bin\Debug\GenareteSignature.exe.config
+C:\Users\gokcul\source\repos\GenareteSignature\GenareteSignature\bin\Debug\GenareteSignature.exe
+C:\Users\gokcul\source\repos\GenareteSignature\GenareteSignature\bin\Debug\GenareteSignature.pdb
+C:\Users\gokcul\source\repos\GenareteSignature\GenareteSignature\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\gokcul\source\repos\GenareteSignature\GenareteSignature\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\gokcul\source\repos\GenareteSignature\GenareteSignature\obj\Debug\GenareteSignature.csprojAssemblyReference.cache
+C:\Users\gokcul\source\repos\GenareteSignature\GenareteSignature\obj\Debug\GenareteSignature.Form1.resources
+C:\Users\gokcul\source\repos\GenareteSignature\GenareteSignature\obj\Debug\GenareteSignature.Properties.Resources.resources
+C:\Users\gokcul\source\repos\GenareteSignature\GenareteSignature\obj\Debug\GenareteSignature.csproj.GenerateResource.cache
+C:\Users\gokcul\source\repos\GenareteSignature\GenareteSignature\obj\Debug\GenareteSignature.csproj.CoreCompileInputs.cache
+C:\Users\gokcul\source\repos\GenareteSignature\GenareteSignature\obj\Debug\GenareteSignature.csproj.CopyComplete
+C:\Users\gokcul\source\repos\GenareteSignature\GenareteSignature\obj\Debug\GenareteSignature.exe
+C:\Users\gokcul\source\repos\GenareteSignature\GenareteSignature\obj\Debug\GenareteSignature.pdb
